@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.zcwilt.zcphpstorm.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zcwilt.zcphpstorm.MyBundle
 
 class MyProjectService(project: Project) {
 
